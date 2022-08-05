@@ -10,9 +10,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  ja:
-    languageName: Japanese
-    weight: 1
 
 # Control TOC depth
 markup:
@@ -35,6 +32,11 @@ params:
     enable: true
     provider: darkreader
     default: system
-    
+
   newsletter:
     enable: false
+  
+  logo:
+    main: images/icon.png
+    inverted: images/icon.png
+    favicon: images/icon.png

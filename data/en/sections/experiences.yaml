@@ -9,13 +9,6 @@ section:
   # hideTitle: true 
 
 experiences:
-- company:
-    name:  KDDI Research, Inc.
-    url: https://www.kddi-research.jp
-  positions:
-  - designation: Internship
-    start: Aug. 2021
-    end: Sep. 2021
 
 - company:
     name:  NEC Corporation.
@@ -24,4 +17,12 @@ experiences:
   - designation: Internship
     start: Aug. 2022
     end: Present
+
+- company:
+    name:  KDDI Research, Inc.
+    url: https://www.kddi-research.jp
+  positions:
+  - designation: Internship
+    start: Aug. 2021
+    end: Sep. 2021
 
