@@ -1,0 +1,12 @@
+# some information about you
+name: "Ken Eto"
+nickname: "Ken Eto"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+#greeting: "Hi, I am"
+image: "images/etoken.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "22amj04@ms.dendai.ac.jp"
+
+
+# some summary about what you do

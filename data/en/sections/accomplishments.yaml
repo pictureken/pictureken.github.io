@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Awards
+  id: accomplishments
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: MIRU Interactive Paper Award
+  timeline: "jul.28,2022"
+  organization:
+    name: The 25th Meeting on Image Recognition and Understanding(MIRU2022)
+    url: https://sites.google.com/view/miru2022/home/award
+  courseOverview: This award is for the paper that is original and creative, and which is followed by a particularly lively discussion the poster presentations at MIRU.
+
