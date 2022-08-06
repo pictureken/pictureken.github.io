@@ -10,6 +10,18 @@ section:
   # hideTitle: true
 
 degrees:
+- name: M.S. Student 
+  icon: fa-university
+  year: Current
+  timeframe: Apr. 2022 - Present
+  institution:
+    name: Tokyo Denki University, Japan
+    url: "https://www.dendai.ac.jp"
+  lab:
+    name: Visual Perception & Recognition Laboratory（VPRL）
+    supervisor: Yuko Ozasa
+    url: "https://033lab.org"
+    
 - name: B.S. in Informatics
   icon: fa-graduation-cap
   year: Mar. 2021
@@ -24,14 +36,3 @@ degrees:
     url: "https://033lab.org"
 
 
-- name: M.S. Student 
-  icon: fa-university
-  year: Current
-  timeframe: Apr. 2022 - Present
-  institution:
-    name: Tokyo Denki University, Japan
-    url: "https://www.dendai.ac.jp"
-  lab:
-    name: Visual Perception & Recognition Laboratory（VPRL）
-    supervisor: Yuko Ozasa
-    url: "https://033lab.org"
