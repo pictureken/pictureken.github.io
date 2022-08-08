@@ -28,10 +28,7 @@ params:
 
   background: "images/back.png"
 
-  darkMode:
-    enable: true
-    provider: darkreader
-    default: system
+
 
   newsletter:
     enable: false
