@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://pictureken.github.io
 
 languageCode: en-us
 title: "Ken Eto"
@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/pictureken/pictureken.github.io
 
   background: "images/back.png"
 

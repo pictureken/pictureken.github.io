@@ -30,6 +30,9 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/pictureken"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/KenETO"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
