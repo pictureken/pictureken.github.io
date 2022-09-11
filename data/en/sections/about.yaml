@@ -32,8 +32,8 @@ socialLinks:
   url: "https://github.com/pictureken"
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "www.linkedin.com/in/KenETO"
-
+  url: "https://www.linkedin.com/in/keneto/"
+  
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
