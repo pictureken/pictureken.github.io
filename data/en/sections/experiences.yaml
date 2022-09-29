@@ -11,12 +11,20 @@ section:
 experiences:
 
 - company:
+    name: Mobility Technologies Co.,Ltd.
+    url: https://mo-t.com
+  positions:
+  - designation: Internship
+    start: Oct. 2022
+    end: Present
+
+- company:
     name:  NEC Corporation.
     url: https://jpn.nec.com
   positions:
   - designation: Internship
     start: Aug. 2022
-    end: Present
+    end: Sep. 2022
 
 - company:
     name:  KDDI Research, Inc.
