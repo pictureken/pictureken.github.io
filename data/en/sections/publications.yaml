@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Domestic Conference(Japanese)
+  name: Domestic Conference (Japanese)
   id: publication
   template: sections/publications.html # Use "sections/education-alt.html for alternate template.
   enable: true
