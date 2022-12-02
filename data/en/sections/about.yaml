@@ -30,6 +30,9 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/pictureken"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/pictur_etoken"
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/keneto/"
