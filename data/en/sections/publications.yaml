@@ -22,6 +22,37 @@ publications:
     url: "#"
   - name: Yuko Ozasa
     url: https://ra-data.dendai.ac.jp/tduhp/KgApp/k03/resid/S000036?local=0&headerTitle=東京電機大学&footer=data%3Aimage%2Fjpeg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAANMAAAAQCAYAAACMe0rDAAABmElEQVR42u1Z2xbCIAzj%2F396%2BujxAE3SMBk2T8pY15Wmt7VWKBQKhUKhUDgd1xvInm%2FM1u%2FUq06wcDyZMo7%2BKd9Jpt5%2Bh54r9irvNgtqrrO5M7ChMlcFVVjuNUBPyOj%2FbJ9KhOjZI8dBMqSbTD89wIB47kphZzJtf3jfxHBnJsaxo3VUlkom1EbK3pGdZ2uKjaPfo%2BeiRO4FwZ6M0fMcMqOkwQYcxE7LehO2lOgpGBFXMcZFQA1E7MEwjo78HznhbA0hERNsWT1ZvVhfQ%2B9xvGNDHWo1mdSMyma%2FlT2TmiVUMrFO6CCs4qiua44eMOOfU92YEgkp%2BYpMcbm2gkxKf3sHmdDyn9WFbSkyAzJINyXFuVInYyyk7lZ7MkeDvkNm2pVMSoBzXcvquB2Z2KZc2Zchk3t4syOZ3H2Zq2disrvUvyR6Nfr%2BLJnYFJ79XrB63TnNc5IJnWAx2Tw75HBP3hSZ7Psg8tSpZ4umY0wjiHzvYPsgdMrGTveYocuTP2tkAlohN%2BQoHHLgaEQu8HYtG%2F7RwZ%2BQaZ%2BIF50xd%2FnSvTJsAAAAAElFTkSuQmCC
+
+  categories: ["machinelearning"]
+  tags: ["Machine Learning", "Computer Vision"]
+
+- title: Behavior of Out-of-Distribution Data in Image Classification with Deep Learning
+  publishedIn:
+    name: Meeting on Image Recognition and Understanding（MIRU），2023
+    date: 27 July 2023
+    url: http://cvim.ipsj.or.jp/MIRU2023/
+  authors:
+  - name: "Ken Eto"
+    url: https://pictureken.github.io
+  - name: Yuko Ozasa
+    url: https://ra-data.dendai.ac.jp/tduhp/KgApp/k03/resid/S000036?local=0&headerTitle=東京電機大学&footer=data%3Aimage%2Fjpeg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAANMAAAAQCAYAAACMe0rDAAABmElEQVR42u1Z2xbCIAzj%2F396%2BujxAE3SMBk2T8pY15Wmt7VWKBQKhUKhUDgd1xvInm%2FM1u%2FUq06wcDyZMo7%2BKd9Jpt5%2Bh54r9irvNgtqrrO5M7ChMlcFVVjuNUBPyOj%2FbJ9KhOjZI8dBMqSbTD89wIB47kphZzJtf3jfxHBnJsaxo3VUlkom1EbK3pGdZ2uKjaPfo%2BeiRO4FwZ6M0fMcMqOkwQYcxE7LehO2lOgpGBFXMcZFQA1E7MEwjo78HznhbA0hERNsWT1ZvVhfQ%2B9xvGNDHWo1mdSMyma%2FlT2TmiVUMrFO6CCs4qiua44eMOOfU92YEgkp%2BYpMcbm2gkxKf3sHmdDyn9WFbSkyAzJINyXFuVInYyyk7lZ7MkeDvkNm2pVMSoBzXcvquB2Z2KZc2Zchk3t4syOZ3H2Zq2disrvUvyR6Nfr%2BLJnYFJ79XrB63TnNc5IJnWAx2Tw75HBP3hSZ7Psg8tSpZ4umY0wjiHzvYPsgdMrGTveYocuTP2tkAlohN%2BQoHHLgaEQu8HYtG%2F7RwZ%2BQaZ%2BIF50xd%2FnSvTJsAAAAAElFTkSuQmCC
+    
+  categories: ["machinelearning"]
+  tags: ["Machine Learning", "Computer Vision"]
+
+
+- title: 単一のRGB-Dカメラで撮影した人物と死角領域の点群データ補間
+  publishedIn:
+    name: Forum on Information technology（FIT），2023
+    date: 8 Sep 2023
+    url: https://www.ipsj.or.jp/event/fit/fit2023/program.html
+  authors:
+  - name: Mikihiro Suzuki
+    url: "#"
+  - name: "Ken Eto"
+    url: https://pictureken.github.io
+  - name: Yuko Ozasa
+    url: https://ra-data.dendai.ac.jp/tduhp/KgApp/k03/resid/S000036?local=0&headerTitle=東京電機大学&footer=data%3Aimage%2Fjpeg%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAANMAAAAQCAYAAACMe0rDAAABmElEQVR42u1Z2xbCIAzj%2F396%2BujxAE3SMBk2T8pY15Wmt7VWKBQKhUKhUDgd1xvInm%2FM1u%2FUq06wcDyZMo7%2BKd9Jpt5%2Bh54r9irvNgtqrrO5M7ChMlcFVVjuNUBPyOj%2FbJ9KhOjZI8dBMqSbTD89wIB47kphZzJtf3jfxHBnJsaxo3VUlkom1EbK3pGdZ2uKjaPfo%2BeiRO4FwZ6M0fMcMqOkwQYcxE7LehO2lOgpGBFXMcZFQA1E7MEwjo78HznhbA0hERNsWT1ZvVhfQ%2B9xvGNDHWo1mdSMyma%2FlT2TmiVUMrFO6CCs4qiua44eMOOfU92YEgkp%2BYpMcbm2gkxKf3sHmdDyn9WFbSkyAzJINyXFuVInYyyk7lZ7MkeDvkNm2pVMSoBzXcvquB2Z2KZc2Zchk3t4syOZ3H2Zq2disrvUvyR6Nfr%2BLJnYFJ79XrB63TnNc5IJnWAx2Tw75HBP3hSZ7Psg8tSpZ4umY0wjiHzvYPsgdMrGTveYocuTP2tkAlohN%2BQoHHLgaEQu8HYtG%2F7RwZ%2BQaZ%2BIF50xd%2FnSvTJsAAAAAElFTkSuQmCC
     
   categories: ["machinelearning"]
   tags: ["Machine Learning", "Computer Vision"]
